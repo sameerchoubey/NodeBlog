@@ -1,5 +1,3 @@
 # NodeBlog
 
-This blog is built using NodeJS.
-
-Changes in the documentation of the blog.
+This blog is built using HTML, CSS, JS and NodeJS [in backend].
