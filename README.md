@@ -1,3 +1,3 @@
 # NodeBlog
 
-Changes to the blog.
+This blog is built using NodeJS.
