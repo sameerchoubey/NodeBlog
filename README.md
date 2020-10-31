@@ -2,4 +2,4 @@
 
 This blog is built using NodeJS.
 
-Change 2
+Changes in the documentation of the blog.
